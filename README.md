@@ -1,2 +1,2 @@
-# 100 Days of Code Challenge
-Template repository for 100 Days of Code contenders on Discord
+# 1,000,000,000 Days of Memes Challenge
+So many memes, so little time.
